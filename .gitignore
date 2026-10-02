@@ -1,0 +1,15 @@
+﻿build/
+*.user
+*.autosave
+*.o
+*.obj
+*.exe
+*.dll
+.qt/
+.qtc_clangd/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_deps
+.ninja_log
